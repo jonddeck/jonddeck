@@ -18,11 +18,11 @@
 
 <h2 align="center">🏅 Attained Badges</h2>
 <p align="center">
-<a href="https://jonddeck.github.io/jonddeck/badge-belt.html" target="_blank">
-<img width="100%" src="https://raw.githubusercontent.com/jonddeck/jonddeck/main/badge-belt.svg" alt="Attained badges belt" />
+<a href="https://raw.githubusercontent.com/jonddeck/jonddeck/main/badge-belt-foreign.svg" target="_blank">
+<img width="100%" src="https://raw.githubusercontent.com/jonddeck/jonddeck/main/badge-belt-foreign.svg" alt="Attained badges belt" />
 </a>
 <br />
-<em>Click the image to open the interactive badge belt with &lt; &gt; navigation.</em>
+<em>Open the image directly for interactive &lt; &gt; badge belt navigation.</em>
 </p>
 
 
