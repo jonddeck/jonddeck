@@ -16,6 +16,15 @@
 <img width="99%" src="https://raw.githubusercontent.com/jonddeck/jonddeck/main/github-metrics.svg" alt="GitHub Metrics, coding habits, contribution calendar"/>
 </p>
 
+<h2 align="center">🏅 Attained Badges</h2>
+<p align="center">
+<a href="https://jonddeck.github.io/jonddeck/badge-belt.html" target="_blank">
+<img width="100%" src="https://raw.githubusercontent.com/jonddeck/jonddeck/main/badge-belt.svg" alt="Attained badges belt" />
+</a>
+<br />
+<em>Click the image to open the interactive badge belt with &lt; &gt; navigation.</em>
+</p>
+
 
 <!--
 **jonddeck/jonddeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
