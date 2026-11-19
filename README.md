@@ -16,6 +16,7 @@
 - ⚡ Fun fact: The first robot was a Flying Pigeon,  a steam-powered wooden bird built by Greek philosopher Archytas of Tarentum around 400 BC. It's recognized by Guinness World Records as the first robot ever. 
 
 <h2 align="center"> Projects (private)</h2>
+
 - Automated Git Source Control 
 - Electric Drawing Tool
 - CNN's for image classification
