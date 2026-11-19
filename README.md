@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
-<p align="center">
+<p align="left">
     <img  src="https://github-stats-extended.vercel.app/api?username=jonddeck&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github"/>
 </p>
 
@@ -15,8 +15,8 @@
 - ⚡ Fun fact: The first robot was a Flying Pigeon,  a steam-powered wooden bird built by Greek philosopher Archytas of Tarentum around 400 BC. It's recognized by Guinness World Records as the first robot ever. 
 
 
-<h2 align="left">📊 Coding Statistics</h2>
-<p align="left">
+<h2 align="center">📊 Coding Statistics</h2>
+<p align="center">
 <img width="99%" src="https://raw.githubusercontent.com/jonddeck/jonddeck/main/github-metrics.svg" alt="GitHub Metrics, coding habits, contribution calendar"/>
 </p>
 
@@ -31,7 +31,7 @@
 <p align="left"> 
 <a href="https://angular.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a>
 <a href="https://portal.azure.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
-<a href="autodesk target="_blank"> <img src="https://brand.autodesk.com/wp-content/uploads/2025/02/logo-02-variations-primary-421x237@2x-768x432.png" alt="autodesk" width="40" height="40"/> </a>
+<a href="autodesk target="_blank"> <img src="https://brand.autodesk.com/wp-content/uploads/2025/02/logo-03-variations-alternate-421x237@2x-768x432.png" alt="autodesk" width="40" height="40"/> </a>
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> -->
@@ -39,6 +39,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+<a href="https://www.eplan.com/us-en/products/eplan-electric-p8/" target="_blank"> <img src="https://imgs.search.brave.com/s22Xh0lkAiomnfmdWoJ5EYcad3GybdaUNm-5ZRQK00I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXBsYW4uaGVscC9l/bi1VUy9JbmZvcG9y/dGFsL0NvbnRlbnQv/UmVzb3VyY2VzL2lt/YWdlcy9lcGxhbi1p/bWctbG9nby5zdmc" alt="eplan" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
