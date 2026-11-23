@@ -4,11 +4,7 @@
 
 <h2 align="center"> About me</h2>
 
-- 🔭 I’m currently working on: my portfolio
-- 🌱 I’m currently learning: C++
-- 👯 I’m looking to collaborate on: IoT
-- 🤔 I’m looking for help with: Energy Conversion
-- 💬 Ask me about: open-source programming
+- 💬 Ask me about: IoT
 - 📫 reach me: via mail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first robot was a Flying Pigeon,  a steam-powered wooden bird built by Greek philosopher Archytas of Tarentum around 400 BC. It's recognized by Guinness World Records as the first robot ever. 
@@ -20,7 +16,7 @@
 - CNN's for image classification
 - Computer Vision with OpenCL
 - CRM tool for mobile concept idea prototype generations
-- Centralized launch platform for personal applications
+- Centralized launch platform for personal applications and ai agents
 
 <h2 align="center">📊 Coding Statistics</h2>
 <p align="center">
