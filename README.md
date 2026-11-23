@@ -23,11 +23,6 @@
 <img width="99%" src="https://raw.githubusercontent.com/jonddeck/jonddeck/main/github-metrics.svg" alt="GitHub Metrics, coding habits, contribution calendar"/>
 </p>
 
-<h2 align="center">🏅 Attained Badges</h2>
-<p align="center">
-<a href="https://raw.githubusercontent.com/jonddeck/jonddeck/main/badge-belt-foreign.svg" target="_blank">
-<img width="100%" src="https://raw.githubusercontent.com/jonddeck/jonddeck/main/badge-belt-foreign.svg" alt="Attained badges belt" />
-</a>
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
