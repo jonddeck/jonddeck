@@ -18,14 +18,14 @@
 <br />
 
 <h2 align="center"> Certifications (private)</h2>
-- Claude Academy: Claude 101
-- Foundational C# with Microsoft
-- Microsoft Office 365 Fundamentals
-- Ghent University - Basiskennis Bedrijfsbeheer
-- Vlerick Business School - Essentials In Finance
-- ..
-- Cisco Credentials
-- Microsoft Credentials
+-  Claude Academy: Claude 101
+-  Foundational C# with Microsoft
+-  Microsoft Office 365 Fundamentals
+-  Ghent University - Basiskennis Bedrijfsbeheer
+-  Vlerick Business School - Essentials In Finance
+-  ..
+-  Cisco Credentials
+-  Microsoft Credentials
 
 <br />
 
