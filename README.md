@@ -10,19 +10,22 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first robot was a Flying Pigeon,  a steam-powered wooden bird built by Greek philosopher Archytas of Tarentum around 400 BC. It's recognized by Guinness World Records as the first robot ever. 
 
-<h2 align="center"> Projects (private)</h2>
-
-- Automated Git Source Control 
-- Electric Drawing Tool
-- CNN's for image classification
-- Computer Vision with OpenCL
-- CRM tool for mobile concept idea prototype generations
-- Centralized launch platform for personal applications and ai agents
-
 <h2 align="center">📊 Coding Statistics</h2>
 <p align="center">
 <img width="99%" src="https://raw.githubusercontent.com/jonddeck/jonddeck/main/github-metrics.svg" alt="GitHub Metrics, coding habits, contribution calendar"/>
 </p>
+
+<br />
+
+<h2 align="center"> Certifications (private)</h2>
+Claude Academy: Claude 101
+Foundational C# with Microsoft
+Microsoft Office 365 Fundamentals
+Ghent University - Basiskennis Bedrijfsbeheer
+Vlerick Business School - Essentials In Finance
+..
+Cisco Credentials
+Microsoft Credentials
 
 <br />
 
